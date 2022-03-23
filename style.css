@@ -1,0 +1,31 @@
+.navbar-brand{
+    border-color:#0D28A6 ;
+    background-color:#0D28A6 ;
+    width: 100px;
+    height: 38px;
+    padding-left: 50px;
+
+}
+.collapse{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 32px;
+}
+.nav-item{
+    padding-left: 30px;
+}
+.woman{
+    width: 374px;
+    height: 366px;
+    margin-left: 200px;
+}
+.mobil{
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.sewa{
+    margin-top: 70px;
+}
+.carousel1{
+    padding-left: 650px;
+}
